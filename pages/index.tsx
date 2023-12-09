@@ -26,9 +26,10 @@ export default function Home() {
             This website presents information regarding Singapore's educational
             system. Singapore is widely regarded to have one of the world's top
             performing education systems. This website will help you to
-            understand why that is the case, as well as the potential pitfalls
-            of the Singaporean education system. To read on, please use the
-            navbar at the top of the website. Please enjoy, thank you!
+            understand more about the Singapore education system, as well as the
+            potential pitfalls of high academic and assessment achievement. To
+            read on, please use the navbar at the top of the website. Please
+            enjoy, thank you!
           </div>
         </div>
       </main>
