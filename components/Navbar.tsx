@@ -50,7 +50,11 @@ export default function Navbar() {
   };
 
   return (
-    <AppBar position="static" className="bg-singapore_red h-14 justify-center">
+    <AppBar
+      position="static"
+      className="h-14 justify-center"
+      sx={{ backgroundColor: "#EE2536" }}
+    >
       <Container maxWidth="xl">
         {/* When window is big */}
         <div className="flex justify-between items-center w-xl">
