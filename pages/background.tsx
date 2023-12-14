@@ -92,10 +92,10 @@ export default function Background() {
             Singapore's contemporary era began when a British colonial official
             named Stamford Raffles established Singapore as a trading post for
             the British Empire in 1819. In 1963, Singapore declared independence
-            from Malaysia and became a part of Malaysia. Today, Singapore is
-            known for being an important business and financial hub for
-            Southeast Asia and the world. The image carousel features a few
-            popular landmarks.
+            from Britain and became a part of Malaysia. In 1965, Singapore
+            became an independent republic. Today, Singapore is known for being
+            an important business and financial hub for Southeast Asia and the
+            world.
           </p>
         </div>
       </div>

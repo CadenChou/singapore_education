@@ -49,13 +49,13 @@ export default function reforms() {
             <p className="text-lg text-text_white">
               The socioemotional learning framework was first implemented in
               2005. The SEL framework helps school programs navigate
-              socioemotional learning, and the key aspcets of SEL are
+              socioemotional learning, and the key aspects of SEL are
               self-awareness, social awareness, self-management, relationship
               management, and responsible decision-making. Socioemotional
               learning is now a compulsary part of Singapore's national
               curriculum. Within the SEL framework, cyber wellness has been
               introduced to address the complexities of interactions on social
-              media by equipting students with the principles and tools
+              media by equipping students with the principles and tools
               necessary to be responsible and mature digital learners.
             </p>
           </div>
