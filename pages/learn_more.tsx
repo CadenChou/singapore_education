@@ -29,7 +29,7 @@ export default function learn_more() {
       <div className="flex flex-col items-center space-y-12">
         <div className="flex flex-col items-center space-y-5 text-xl">
           <div className="text-4xl font-semibold ">Stay Informed</div>
-          <p className="text-xl max-w-[80vw]">
+          <p className="text-xl w-[80vw]">
             To stay updated on the latest advancements and news concerning
             mental health and education in Singapore, explore these additional
             resources:
@@ -53,7 +53,7 @@ export default function learn_more() {
           <div className="text-4xl font-semibold">
             Learn More About Singapore
           </div>
-          <p className="text-xl max-w-[80vw]">
+          <p className="text-xl w-[80vw]">
             To learn more about Singapore and its culture, beyond education and
             mental health, consider checking out the following websites:
           </p>
