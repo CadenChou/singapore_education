@@ -28,6 +28,10 @@ const pages = [
     link: "/reforms",
   },
   {
+    name: "Learn More",
+    link: "/learn_more",
+  },
+  {
     name: "References",
     link: "/references",
   },

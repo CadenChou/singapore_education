@@ -14,7 +14,7 @@ export default function Background() {
         <Image src={skyline} alt={""} layout="fill" objectFit="cover" />
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 font-bold text-5xl text-center">
           <span className="bg-gradient-to-r from-gray-600  to-gray-800 text-transparent bg-clip-text">
-            Background{" "}
+            Background
           </span>
         </div>
       </div>
